@@ -1,0 +1,1 @@
+SELECT max(SALARY) - min(SALARY) FROM employees;
